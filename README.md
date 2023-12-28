@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Matlab-3670A0?style=for-the-badge&logoColor=ffdd54"/>
 
-## 💻 Github
+## 💻Github
 <a href = "https://github.com/lrozlo"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 ## Blog
