@@ -13,9 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-✨ My github blog
-
-https://lrozlo.github.io
+✨ [My github blog](https://lrozlo.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrozlo&layout=compact)](https://github.com/Lrozlo/github-readme-stats)
 
