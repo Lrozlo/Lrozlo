@@ -15,5 +15,7 @@
 
 ✨ [My github blog](https://lrozlo.github.io)
 
+[![Lrozlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrozlo)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrozlo&layout=compact)](https://github.com/Lrozlo/github-readme-stats)
 
