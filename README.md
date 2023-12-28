@@ -1,7 +1,7 @@
 ### 👋 I'm Lrozlo
 
 ## Skill
-<img alt="Static Badge" src="https://img.shields.io/badge/-C++-hexcode#00599C?style=flat&logo=cplusplus&logocolor=white">
+<img src="https://img.shields.io/badge/-C++-hexcode#00599C?style=flat&logo=cplusplus&logocolor=white">
 
 ## Blog
 ✨ [My github blog](https://lrozlo.github.io) ✨
