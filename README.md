@@ -1,4 +1,4 @@
-# <center>👋 I'm Lrozlo</center>
+# 👋 I'm Lrozlo
 
 ## 🛠️ Tech Stack
 
