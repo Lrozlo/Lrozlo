@@ -1,5 +1,10 @@
 # 👋 I'm Lrozlo
 
+## 👐 About me
+
+- Computer Science and Engineer
+- I want to be a financial web developer
+
 ## 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
