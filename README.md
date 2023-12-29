@@ -2,7 +2,7 @@
 
 ## 👐 About me
 
-- Computer Science and Engineer
+- Computer Science and Engineering
 - I want to be a financial web developer
 
 ## 🛠️ Tech Stack
