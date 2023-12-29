@@ -1,4 +1,9 @@
-### 👋 I'm Lrozlo
+# 👋 I'm Lrozlo
+
+## 👐 About me
+
+- Computer Science and Engineer
+- I want to be a financial web developer
 
 ## 🛠️ Tech Stack
 
