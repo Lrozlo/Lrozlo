@@ -17,5 +17,5 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrozlo&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrozlo&layout=compact?exclude_repo=lrozlo.github.io)](https://github.com/Lrozlo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrozlo&layout=compact&exclude_repo=lrozlo.github.io)](https://github.com/Lrozlo/github-readme-stats)
 
