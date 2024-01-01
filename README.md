@@ -1,9 +1,8 @@
-# 👋 I'm Lrozlo
+## 👋 Hi, My name is Nayeong Kim.
 
 ## 👐 About me
-
-- Computer Science and Engineering
-- I want to be a financial web developer
+- Major in Computer Science & Engineering
+- Interested in Cloud Computing
 
 ## 🛠️ Tech Stack
 
