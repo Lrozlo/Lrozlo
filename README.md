@@ -1,4 +1,6 @@
 ## 👋 Hi, My name is Nayeong Kim.
+모든 경험에는 배울 점이 있다고 생각합니다.
+'배움'에 적극적인 개발자가 되고 싶습니다.
 
 ## 👐 About me
 - Major in Computer Science & Engineering
